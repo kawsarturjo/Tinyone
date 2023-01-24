@@ -1,0 +1,86 @@
+/*common start*/
+body{
+	font-family: 'PT Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+}
+/*common end*/
+
+/*header start*/
+header{
+	padding: 20px 0 70px 0;
+	background-color: #fcdb00;
+}
+.tinyone-img{
+}
+.menu{}
+.menu ul{}
+.menu ul li{}
+.menu ul li a{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    color: #010101 !important;
+    margin: 0 40px !important;
+    transition: .33s;
+}
+.navbar-toggler:focus {
+	box-shadow: none;
+}
+.menu ul li:last-child a{
+	padding-right: 0 !important;
+	margin-right: 0 !important;
+}
+.menu ul li a:hover{
+	color: white !important;
+}
+/*header end*/
+
+/*banner start*/
+.banner-start{
+	padding-bottom: 120px;
+	background-color: #fcdb00;
+}
+.banner{}
+.banner h1{
+    font-size: 32px;
+    font-weight: 700;
+    color: #010101;
+    margin-bottom: 0;
+}
+.banner h6{
+	margin: 27px 132px 27px 0;
+	font-size: 20px;
+	color: #313841;
+}
+.banner p{
+	margin: 0 136px 42px 0;
+	color: #555555;
+}
+.s-icon ul li i{
+	font-size: 40px;
+    margin-right: 30px;
+    transition: .33s;
+}
+.s-icon ul li i:hover{
+    color: white;
+    transform: scale(1.2);
+}
+.s-icon ul li:first-child{
+margin-left: 3px;
+}
+.s-icon ul{
+
+}
+.banner-img{
+	margin-left: 40px;
+}
+.dots{
+	margin-bottom: -90px;
+}
+.dots button{
+	width: 14px !important;
+    height: 14px !important;
+    border-radius: 50%;
+}
+/*banner end*/
